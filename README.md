@@ -14,6 +14,6 @@ Now, the paper is still under review. The paper and source code will be availabl
 
 Copyright (c) 2018-2021 MaOES Group. You are free to use the Programe for research purposes.
 
-All publications which use this Programe or any code in the Programe should acknowledge the use of "DN-MMOES" and reference "Kai Zhang, Chaonan Shen, Gary G. Yen, Zhiwei Xu, Juanjuan He, Two-Stage Double Niched Evolution Strategy for Multimodal Multi-Objective Optimization, IEEE Transactions on Evolutionary Computation, 2021, DOI: 10.1109/TEVC.2021.3064508."
+All publications which use this Programe or any code in the Programe should acknowledge the use of "DN-MMOES" and reference "Kai Zhang, Chaonan Shen, Gary G. Yen, Zhiwei Xu, Juanjuan He, Two-Stage Double Niched Evolution Strategy for Multimodal Multi-Objective Optimization, IEEE Transactions on Evolutionary Computation, 2021, vol 25(4), 754 - 768. DOI: 10.1109/TEVC.2021.3064508."
 
 https://ieeexplore.ieee.org/document/9372341
